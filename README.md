@@ -6,11 +6,6 @@ Web albums based on node.js, more simple to show photography photos
 
 ### 1、功能
 
-此[Demo](http://litten.me/gallery/)供体验。
-扫码可体验Mobile交互：
-
-![zing-galler qrcode](https://cloud.githubusercontent.com/assets/2024949/19653457/3ad5df14-9a47-11e6-8f2f-b9ae3241c6b6.png)
-
 * 自动获取照片信息（快门、光圈、ISO、时间等）
 * 自由为相册设置信息（封面、名称、描述）
 * 相册可加密访问
